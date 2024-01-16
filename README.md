@@ -2,6 +2,9 @@
 
 A full stack Instagram Clone using Flutter and Firebase
 
+![instapic](https://github.com/amaanmithani/InstagramClone/assets/101476296/1b02d6c3-f920-4895-a217-02e845637c1f)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
